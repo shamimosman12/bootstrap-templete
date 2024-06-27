@@ -1,2 +1,2 @@
 # bootstrap-templete
-basic laout
+https://shamimosman12.github.io/bootstrap-templete/
